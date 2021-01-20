@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\obj\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\obj\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\obj\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\obj\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\bin\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.exe
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\bin\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.deps.json
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\bin\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.runtimeconfig.json
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\bin\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\bin\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.dll
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\bin\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.pdb
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\obj\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.dll
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\obj\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.pdb
+C:\Users\Kiril\source\repos\08_Lab\Task05_Digits,_Letters_and_Other\obj\Debug\netcoreapp3.1\Task05_Digits,_Letters_and_Other.genruntimeconfig.cache
