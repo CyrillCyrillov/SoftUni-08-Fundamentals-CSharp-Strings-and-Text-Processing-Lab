@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\bin\Debug\netcoreapp3.1\Task03_Substring.exe
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\bin\Debug\netcoreapp3.1\Task03_Substring.deps.json
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\bin\Debug\netcoreapp3.1\Task03_Substring.runtimeconfig.json
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\bin\Debug\netcoreapp3.1\Task03_Substring.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\bin\Debug\netcoreapp3.1\Task03_Substring.dll
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\bin\Debug\netcoreapp3.1\Task03_Substring.pdb
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\obj\Debug\netcoreapp3.1\Task03_Substring.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\obj\Debug\netcoreapp3.1\Task03_Substring.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\obj\Debug\netcoreapp3.1\Task03_Substring.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\obj\Debug\netcoreapp3.1\Task03_Substring.dll
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\obj\Debug\netcoreapp3.1\Task03_Substring.pdb
+C:\Users\Kiril\source\repos\08_Lab\Task03_Substring\obj\Debug\netcoreapp3.1\Task03_Substring.genruntimeconfig.cache
